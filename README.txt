@@ -1,2 +1,1 @@
-# study_git
- git README 파일
+git README 파일
