@@ -1,1 +1,2 @@
-github 테스트 
+# study_git
+ git README 파일
