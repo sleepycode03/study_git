@@ -1,2 +1,2 @@
 # study_git
-studu git repository
+study git repository
